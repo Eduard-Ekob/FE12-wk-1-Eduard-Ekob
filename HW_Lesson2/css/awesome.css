@@ -39,11 +39,12 @@ section{
 }
 
 .card {
-    width: 300px;
+    width: 350px;
+    height: 225 px;
     display: inline-block;
     text-align: center;
     margin: auto;
-    margin-bottom: 80px;
+    margin: 0 20px 80px 0;
 }
 
 .circle-border-image {
@@ -61,9 +62,11 @@ section{
 .card-title {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 16px;
 }
 
 .card-subtitle {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 12px;
 }
